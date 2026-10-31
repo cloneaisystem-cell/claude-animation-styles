@@ -1,0 +1,3 @@
+# /exploded — pulled apart, every part named
+
+Animate an exploded view of a 35 mm film camera, in a dark graphite studio with soft rim lights and crisp reflections. The camera is a classic rangefinder: black leatherette body, brushed-chrome top plate, shutter-speed dial, advance lever, rewind knob, and a lens with a knurled focus ring and glass that catches the light. It turns slowly in three-quarter view, then pulls apart into six layers stacked along one axis with even gaps. Cut to a higher angle. Every layer gets a big label with a thin leader line and a number (01 Top plate, 02 Lens, 03 Shutter, 04 Body, 05 Film · 36 exp., 06 Back door), popping in one after another. Meanwhile, the film strip unrolls out of its canister.

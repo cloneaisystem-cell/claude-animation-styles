@@ -1,0 +1,3 @@
+# /neon — a sign buzzing to life
+
+Animate a neon sign buzzing to life at night. Shoot a real, rain-wet brick wall straight on. The sign has two lines: "OPEN" in thick red tube letters and "all night" in warm-white cursive neon underneath. Show the glass tubes, metal standoffs and a thin cable. The tubes start dark grey. The letters of OPEN flicker on one by one with an uneven buzz, and each one throws red light onto the bricks. Then cut closer and lower. The cursive "all night" writes itself left to right with a white-hot tip, and the whole sign surges to full glow. Rain streaks fall through the light, and the wet pavement below reflects the sign in a rippling mirror. One letter keeps flickering at the end.

@@ -1,0 +1,4 @@
+node_modules/
+out/
+public/my/*
+!public/my/.gitkeep
